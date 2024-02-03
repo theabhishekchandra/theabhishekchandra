@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ac927920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11FDTe61MmarPZG5UL-z9n2W-q2Gd93Y-/view?usp=drive_link](https://drive.google.com/file/d/11FDTe61MmarPZG5UL-z9n2W-q2Gd93Y-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P6NmH0fXo-vCB1u-_-rPmLafLVAPLPPO/view?usp=sharing](https://drive.google.com/file/d/1P6NmH0fXo-vCB1u-_-rPmLafLVAPLPPO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
