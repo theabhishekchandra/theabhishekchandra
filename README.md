@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theabhi_chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theabhi_chandra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek-chandra-bb3025204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhishek-chandra-bb3025204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theabhishekchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhishek-chandra-bb3025204" height="30" width="40" /></a>
 <a href="https://instagram.com/theabhishekchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theabhishekchandra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ac927920" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ac927920" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ac927920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ac927920" height="30" width="40" /></a>
