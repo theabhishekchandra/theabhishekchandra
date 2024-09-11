@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [abhishekchandra.co.in](abhishekchandra.co.in)
 
-- 💬 Ask me about **Android development |**
+- 💬 Ask me about **Android development 
 
 - 📫 How to reach me **ac927920@gmail.com**
 
