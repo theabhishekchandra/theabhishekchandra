@@ -62,7 +62,7 @@
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theabhishekchandra&theme=onestar&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=theabhishekchandra&theme=onestar&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -70,8 +70,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theabhishekchandra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekchandra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=theabhishekchandra&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theabhishekchandra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170" />
 </div>
 
 <br/>
