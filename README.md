@@ -51,6 +51,7 @@
 - 🎯 **Current focus:** Compose Multiplatform (KMP), MVI, modularization & CI/CD at scale
 - ⚡ **Passion:** Clean, testable architecture · buttery-smooth UI · pixel-perfect Material 3
 - 🎓 **B.Tech, Computer Science & Engineering** — Ambalika Institute of Management & Technology, Lucknow (2020–2024)
+- 🗣️ **Languages:** English (Professional) · Hindi (Native)
 - 🌍 Based in **Noida, India** — open to **Senior Android / Mobile Engineer** roles
 
 <br clear="right"/>
@@ -115,6 +116,30 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Play Console](https://img.shields.io/badge/Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+
+### Media, Realtime & TV
+![LiveKit](https://img.shields.io/badge/LiveKit%20(WebRTC)-1FD5C9?style=for-the-badge&logo=webrtc&logoColor=black)
+![Media3](https://img.shields.io/badge/Media3%20%2F%20ExoPlayer-FF0000?style=for-the-badge&logo=android&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android%20TV%20(Leanback)-3DDC84?style=for-the-badge&logo=androidtv&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas%20API-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Coil](https://img.shields.io/badge/Coil%20%2F%20Glide-24292E?style=for-the-badge&logo=android&logoColor=white)
+
+### Payments & Security
+![Play Billing](https://img.shields.io/badge/Google%20Play%20Billing-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Play Integrity](https://img.shields.io/badge/Play%20Integrity%20API-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Keystore](https://img.shields.io/badge/Android%20Keystore-A4C639?style=for-the-badge&logo=android&logoColor=white)
+![SSL Pinning](https://img.shields.io/badge/SSL%20Pinning-004880?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### Testing & Quality
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-DB4437?style=for-the-badge)
+![Turbine](https://img.shields.io/badge/Turbine-7F52FF?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Robolectric](https://img.shields.io/badge/Robolectric-1F6FEB?style=for-the-badge)
+![Compose UI Test](https://img.shields.io/badge/Compose%20UI%20Test-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![LeakCanary](https://img.shields.io/badge/LeakCanary-FFC107?style=for-the-badge&logo=android&logoColor=black)
+![Detekt](https://img.shields.io/badge/Detekt%20%2F%20ktlint-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -291,12 +316,14 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 <h3 align="center">🏗️ Matall App</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/🛒%20E-Commerce-1F6FEB?style=for-the-badge&logo=android&logoColor=white" />
+<a href="https://github.com/theabhishekchandra/Matall-App">
+<img src="https://img.shields.io/badge/🛒%20E-Commerce-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
-**E-commerce** for construction materials — offline-first catalog with Room caching and integrated payments.
+**E-commerce** for construction materials — offline-first catalog with Room caching, payment-gateway integration & DiffUtil lists.
 
-**✨ Features:** Offline-first catalog · Room caching · Integrated payments · Push notifications
+**✨ Features:** Offline-first catalog · Repository Pattern · Payment gateway · FCM push
 
 **🧰 Stack:**
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -357,34 +384,41 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 <table>
 <tr>
-<td align="center" valign="middle" width="24%">
-<img src="https://img.shields.io/badge/2024%20—%202026-1F6FEB?style=for-the-badge" /><br/>
+<td align="center" valign="middle" width="26%">
+<img src="https://img.shields.io/badge/Sep%202025%20—%202026-1F6FEB?style=for-the-badge" /><br/>
 <b>Pun Learn</b><br/>
-<sub>Meri Lipi</sub>
+<sub>Meri Lipi · Patiala, Punjab</sub><br/>
+<sub>Hybrid</sub>
 </td>
-<td valign="top" width="76%">
+<td valign="top" width="74%">
 
-**🟣 Senior Software Engineer — Android**
+**🟣 Senior Software Engineer — Android** · <sub>promoted from Android Developer in 5 months</sub>
 
-- Owned **end-to-end technical architecture** & led a team of **4 engineers**
-- Shipped **Meri Lipi** to **80K+ users** across **5+ countries** · **4.83★** · **99.8% crash-free**
-- Drove **+60% engagement**, **+45% sync reliability**, **−25% memory usage**
-- Promoted from SDE to Senior in just **5 months**
+- Architected **LiPi** (Meri Lipi's kids' EdTech app) **solo from zero → 80K+ users** across **5+ countries** — **4.83★**, **99.8% crash-free**
+- Owned architecture, release pipeline & roadmap; sustained stability with **140+ automated tests** (JUnit, MockK, Turbine, Robolectric)
+- Launched subscription monetization — **Stripe**, then migrated live subs to **Google Play Billing** with **zero revenue disruption**
+- Shipped in-app **live video classes** (LiveKit / WebRTC) & a dedicated **Android TV** app from the shared Kotlin/Compose codebase
+- Secured payment & user-data flows: **SSL pinning**, **Play Integrity API**, Android Keystore & encrypted storage
+- **Hired & led a 4-engineer team** — interviews, sprint planning, code reviews & mentoring — while shipping core features hands-on
 
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="24%">
-<img src="https://img.shields.io/badge/2023%20—%202024-8B5CF6?style=for-the-badge" /><br/>
-<b>Pun Learn</b><br/>
-<sub>Meri Lipi</sub>
+<td align="center" valign="middle" width="26%">
+<img src="https://img.shields.io/badge/Mar%202024%20—%20Aug%202025-8B5CF6?style=for-the-badge" /><br/>
+<b>Four Leaf Clover Agro</b><br/>
+<sub>Gram Unnati · Gurugram, Haryana</sub><br/>
+<sub>Hybrid</sub>
 </td>
-<td valign="top" width="76%">
+<td valign="top" width="74%">
 
-**🔵 Android Engineer**
+**🔵 Android Developer**
 
-- Built core **Jetpack Compose** UI, offline-first sync & the **CI/CD** release pipeline
-- Delivered video onboarding, offline-first uploads & Hindi/English localization
+- Boosted photo-sync reliability **+45%** in rural low-network areas via **WorkManager** uploads with connectivity-aware retries
+- Increased new-user engagement **+60%** with **ExoPlayer** video onboarding for a low-digital-literacy audience
+- Cut app memory usage **−25%** by fixing leaks (**LeakCanary**) & adding lazy loading on image-heavy screens
+- Replaced manual paperwork with in-app **PDF invoice generation** (Android PDF APIs) — raising field efficiency **+30%**
+- Added Hindi/English localization & **Firebase OTP** auth with role-based access control
 
 </td>
 </tr>
@@ -408,11 +442,24 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 ## 🎓 Education
 
-```text
-🎓 B.Tech, Computer Science & Engineering                            │ 2020 — 2024
-   Ambalika Institute of Management and Technology, Lucknow
-   └─ Focus: Data Structures, Algorithms, OOP, DBMS, Software Engineering
-```
+<table>
+<tr>
+<td align="center" valign="middle" width="26%">
+<img src="https://img.shields.io/badge/May%202020%20—%20Jul%202024-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" /><br/>
+🎓<br/>
+<b>B.Tech · CSE</b>
+</td>
+<td valign="top" width="74%">
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+🏛️ **Ambalika Institute of Management and Technology** — Lucknow, Uttar Pradesh
+
+<sub>📚 Data Structures & Algorithms · OOP · DBMS · Operating Systems · Software Engineering · Computer Networks</sub>
+
+</td>
+</tr>
+</table>
 
 <!-- ====================================================== -->
 <!--                 CERTIFICATIONS                          -->
