@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- Social / Quick Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhishekchandra.web.app-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekchandra.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekchandra-portfolio.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theabhishekchandra)
 [![X](https://img.shields.io/badge/X-@theabhi__chandra-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theabhi_chandra)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ac927920@gmail.com)
@@ -213,7 +213,7 @@
 
 <h3 align="center">📚 Meri Lipi</h3>
 <div align="center">
-<a href="https://abhishekchandra.web.app">
+<a href="https://abhishekchandra-portfolio.web.app">
 <img src="https://img.shields.io/badge/▶%20Live%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a>
 </div>
@@ -513,7 +513,7 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
      - 📝 Structuring large Android apps with Clean Architecture & modularization
      - 📝 Offline-first sync in Jetpack Compose with WorkManager & Room
      - 📝 From SDE to Senior in 5 months — engineering habits that compound
-     > 🔗 More on my portfolio: https://abhishekchandra.web.app
+     > 🔗 More on my portfolio: https://abhishekchandra-portfolio.web.app
 
      -------------------------------------------------------------------
 
@@ -553,7 +553,7 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekchandra.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhishekchandra-portfolio.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theabhishekchandra)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theabhi_chandra)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ac927920@gmail.com)
