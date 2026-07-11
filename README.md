@@ -161,51 +161,134 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 Meri Lipi &nbsp;·&nbsp; <sub>EdTech</sub>
-Kids' Gurmukhi-learning app — Learn, Draw, Quiz, Stories & gamification. **Solo-architected to 80K+ users** across 5+ countries · 4.83★ · 99.8% crash-free.
+<h3 align="center">📚 Meri Lipi</h3>
+<div align="center">
+<a href="https://abhishekchandra-portfolio.web.app">
+<img src="https://img.shields.io/badge/▶%20Live%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+</div>
 
-`Kotlin` `Compose` `Hilt` `Firebase` `Play Billing` `LiveKit`
+Kids' **EdTech** app for learning Gurmukhi — Learn, Draw, Quiz, Stories & Gamification. **80K+ users** across **5+ countries**, **4.83★**, **99.8% crash-free**.
 
-<a href="https://abhishekchandra-portfolio.web.app"><img src="https://img.shields.io/badge/Case%20Study-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+**✨ Features:** Offline-first content · Gamified streaks · Stripe payments · Real-time sync
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/-Hilt-2C4AA8?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### 💬 NitiGrow &nbsp;·&nbsp; <sub>SaaS</sub>
-Multi-tenant **WhatsApp marketing & CRM** for Indian SMBs on the Meta Cloud API — architected end-to-end (Web · Android · iOS · SDK).
+<h3 align="center">💬 NitiGrow</h3>
+<div align="center">
+<a href="https://github.com/theabhishekchandra?tab=repositories&q=nitigrow">
+<img src="https://img.shields.io/badge/📂%20View%20Repos-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
 
-`Kotlin` `Node.js` `React` `MongoDB` `AWS`
+Multi-tenant **WhatsApp marketing & CRM SaaS** for Indian SMBs on the Meta Cloud API — architected & built end-to-end (Web · Android · iOS · SDK).
 
-<a href="https://github.com/theabhishekchandra?tab=repositories&q=nitigrow"><img src="https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white" /></a>
+**✨ Features:** Multi-tenant · Campaign automation · Analytics · Cross-platform SDK
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ ZeroDroid &nbsp;·&nbsp; <sub>Open Source</sub>
-All-in-one **Android hardware toolkit** — 27 tools for wireless analysis, sensor monitoring & security auditing.
+<h3 align="center">🛡️ ZeroDroid</h3>
+<div align="center">
+<a href="https://github.com/theabhishekchandra/ZeroDroid">
+<img src="https://img.shields.io/github/stars/theabhishekchandra/ZeroDroid?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0D1117" />
+</a>
+</div>
 
-`Kotlin` `Compose` `Coroutines`
+The all-in-one **Android hardware toolkit** — **27 tools** for wireless analysis, sensor monitoring, network scanning & security auditing.
 
-<a href="https://github.com/theabhishekchandra/ZeroDroid"><img src="https://img.shields.io/github/stars/theabhishekchandra/ZeroDroid?style=flat-square&logo=github&color=8B5CF6&labelColor=181717" /></a>
+**✨ Features:** 27 modular tools · Sensor & network APIs · Material 3 UI · Zero-dependency core
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/-Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌾 Gram Unnati &nbsp;·&nbsp; <sub>AgriTech</sub>
-Field app for rural India — offline-first uploads, video onboarding & in-app PDF invoicing. **+45% sync reliability · +60% engagement · −25% memory.**
+<h3 align="center">🌾 Gram Unnati</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/🌱%20AgriTech%20for%20Bharat-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
 
-`Kotlin` `WorkManager` `ExoPlayer` `Room`
+**AgriTech** app for rural India — offline-first uploads, video onboarding, Hindi/English localization & PDF invoicing.
 
-<a href="https://github.com/theabhishekchandra"><img src="https://img.shields.io/badge/Details-3DDC84?style=flat-square&logo=android&logoColor=white" /></a>
+**✨ Features:** Offline-first sync · Video onboarding · i18n (Hindi/English) · PDF invoices
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![WorkManager](https://img.shields.io/badge/-WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
+![ExoPlayer](https://img.shields.io/badge/-ExoPlayer-FF0000?style=flat-square&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/-Room-3DDC84?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📧 Kabutar</h3>
+<div align="center">
+<a href="https://github.com/theabhishekchandra/Kabutar">
+<img src="https://img.shields.io/github/stars/theabhishekchandra/Kabutar?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0D1117" />
+</a>
+</div>
+
+**AI-powered** bulk email platform — personalized cold emails, analytics dashboard & multi-language support.
+
+**✨ Features:** AI personalization · Bulk delivery · Analytics dashboard · i18n
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM-FF6F00?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏗️ Matall App</h3>
+<div align="center">
+<a href="https://github.com/theabhishekchandra/Matall-App">
+<img src="https://img.shields.io/badge/🛒%20E-Commerce-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+**E-commerce** for construction materials — offline-first catalog with Room caching, payment-gateway integration & DiffUtil lists.
+
+**✨ Features:** Offline-first catalog · Repository Pattern · Payment gateway · FCM push
+
+**🧰 Stack:**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM-FF6F00?style=flat-square&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/-Room-3DDC84?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/theabhishekchandra?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2034%2B%20repositories%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/theabhishekchandra?tab=repositories">
+<img src="https://img.shields.io/badge/See%20all%2034%2B%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 <!-- ======================================================================
@@ -287,16 +370,54 @@ Field app for rural India — offline-first uploads, video onboarding & in-app P
 
 ## 🧭 Beyond the Code
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-| 🧑‍✈️ Leadership | ⚙️ Ways of Working | 🤝 Strengths |
-|:--|:--|:--|
-| Technical roadmap ownership | Agile / Scrum | Ownership mindset |
-| Team leadership & hiring | SOLID & design patterns | Technical communication |
-| Mentoring & code reviews | CI/CD & release engineering | Cross-functional collaboration |
-| Architecture & stakeholder mgmt | Offline-first for emerging markets | Pragmatic problem-solving |
+### 🧑‍✈️
+**Leadership**
 
-</div>
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️
+**Ways of Working**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤝
+**Strengths**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+![Roadmap Ownership](https://img.shields.io/badge/Technical%20Roadmap%20Ownership-1F6FEB?style=flat-square)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership%20%26%20Hiring-1F6FEB?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring%20%26%20Code%20Reviews-1F6FEB?style=flat-square)
+![Stakeholder Mgmt](https://img.shields.io/badge/Stakeholder%20Management-1F6FEB?style=flat-square)
+
+</td>
+<td valign="top">
+
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-8B5CF6?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID%20%26%20Design%20Patterns-8B5CF6?style=flat-square)
+![CICD](https://img.shields.io/badge/CI%2FCD%20%26%20Release%20Eng-8B5CF6?style=flat-square)
+![Offline First](https://img.shields.io/badge/Offline--First%20for%20Emerging%20Markets-8B5CF6?style=flat-square)
+
+</td>
+<td valign="top">
+
+![Ownership](https://img.shields.io/badge/Ownership%20Mindset-3DDC84?style=flat-square)
+![Communication](https://img.shields.io/badge/Technical%20Communication-3DDC84?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-3DDC84?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Pragmatic%20Problem--Solving-3DDC84?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <!-- ======================================================================
                           GITHUB ANALYTICS
@@ -306,36 +427,32 @@ Field app for rural India — offline-first uploads, video onboarding & in-app P
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=theabhishekchandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6" alt="stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekchandra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theabhishekchandra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishekchandra&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekchandra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=10" />
 
 <br/>
 
-<!-- Contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake.svg" />
-</picture>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishekchandra&theme=react-dark&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=ffffff&hide_border=true&area=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=theabhishekchandra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
-<details align="center">
-<summary><b>📈 Streak, activity graph & trophies</b></summary>
-
-<br/>
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishekchandra&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishekchandra&theme=react-dark&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=theabhishekchandra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/theabhishekchandra/theabhishekchandra/output/github-snake.svg" />
+</picture>
 
 </div>
-
-</details>
 
 <!-- ======================================================================
                          CONNECT & SUPPORT
