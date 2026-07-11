@@ -10,7 +10,7 @@
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Senior+Android+Engineer+%40+Meri+Lipi;Kotlin+%7C+Jetpack+Compose+%7C+Compose+Multiplatform;Clean+Architecture+%C2%B7+MVVM+%C2%B7+MVI+%C2%B7+Coroutines+%C2%B7+Flow;Shipped+Meri+Lipi+to+80K%2B+users+across+5%2B+countries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=Senior+Android+Engineer+%7C+Kotlin+Specialist;Kotlin+%7C+Jetpack+Compose+%7C+Compose+Multiplatform;Clean+Architecture+%C2%B7+MVVM+%C2%B7+MVI+%C2%B7+Coroutines+%C2%B7+Flow;Shipped+apps+to+80K%2B+users+across+5%2B+countries" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@
 > **Senior Software Engineer (Android)** with a bias for shipping. I design, build, and own Android products end-to-end — from Clean Architecture and modularization to release engineering on the Play Console.
 
 - 🚀 **2+ years** building & shipping production Android apps in **Kotlin** & **Jetpack Compose**
-- 🏆 Promoted to **Senior Engineer in 5 months** — now owning technical architecture & leading a team of **4**
+- 🏆 Promoted to **Senior Engineer in 5 months** — owned technical architecture & led a team of **4**
 - 📱 Designed & shipped **Meri Lipi**, a kids' EdTech app → **80K+ users** across **5+ countries**, **4.83★** rating, **99.8% crash-free**
 - 📈 Delivered **+60% engagement** (video onboarding), **+45% sync reliability** (offline-first uploads), and **−25% memory usage**
 - 🎯 **Current focus:** Compose Multiplatform (KMP), MVI, modularization & CI/CD at scale
@@ -138,15 +138,41 @@
 
 <div align="center">
 
-| Skill | Proficiency | Skill | Proficiency |
-|:------|:-----------:|:------|:-----------:|
-| **Kotlin**              | ⭐⭐⭐⭐⭐ | **Coroutines & Flow**   | ⭐⭐⭐⭐⭐ |
-| **Android SDK**         | ⭐⭐⭐⭐⭐ | **Firebase**            | ⭐⭐⭐⭐⭐ |
-| **Jetpack Compose**     | ⭐⭐⭐⭐⭐ | **REST API / Retrofit** | ⭐⭐⭐⭐⭐ |
-| **Clean Architecture**  | ⭐⭐⭐⭐⭐ | **Hilt / Dagger**       | ⭐⭐⭐⭐☆ |
-| **MVVM / MVI**          | ⭐⭐⭐⭐⭐ | **Room / DataStore**    | ⭐⭐⭐⭐☆ |
-| **Modularization**      | ⭐⭐⭐⭐☆ | **CI/CD · GitHub Actions** | ⭐⭐⭐⭐☆ |
-| **Compose Multiplatform** | ⭐⭐⭐⭐☆ | **Node.js Backend**     | ⭐⭐⭐⭐☆ |
+<table>
+<tr>
+<th>💠 Skill</th><th>Proficiency</th><th>Level</th>
+<th>&nbsp;&nbsp;</th>
+<th>💠 Skill</th><th>Proficiency</th><th>Level</th>
+</tr>
+<tr>
+<td><b>Kotlin</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td><td></td>
+<td><b>Coroutines / Flow</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td>
+</tr>
+<tr>
+<td><b>Android SDK</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td><td></td>
+<td><b>Firebase</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td>
+</tr>
+<tr>
+<td><b>Jetpack Compose</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td><td></td>
+<td><b>REST API / Retrofit</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td>
+</tr>
+<tr>
+<td><b>Clean Architecture</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td><td></td>
+<td><b>Hilt / Dagger</b></td><td>🟪🟪🟪🟪⬜</td><td><sub>Advanced</sub></td>
+</tr>
+<tr>
+<td><b>MVVM / MVI</b></td><td>🟪🟪🟪🟪🟪</td><td><sub>Expert</sub></td><td></td>
+<td><b>Room / DataStore</b></td><td>🟪🟪🟪🟪⬜</td><td><sub>Advanced</sub></td>
+</tr>
+<tr>
+<td><b>Modularization</b></td><td>🟪🟪🟪🟪⬜</td><td><sub>Advanced</sub></td><td></td>
+<td><b>CI/CD · GitHub Actions</b></td><td>🟪🟪🟪🟪⬜</td><td><sub>Advanced</sub></td>
+</tr>
+<tr>
+<td><b>Compose Multiplatform</b></td><td>🟪🟪🟪🟪⬜</td><td><sub>Advanced</sub></td><td></td>
+<td><b>Node.js Backend</b></td><td>🟪🟪🟪⬜⬜</td><td><sub>Proficient</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -329,29 +355,52 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 ## 💼 Work Experience
 
-```text
-🟣 Senior Software Engineer (Android)          Pun Learn — Meri Lipi   │ 2024 — Present
-   └─ Own end-to-end architecture; lead a team of 4 engineers
-   └─ Shipped Meri Lipi to 80K+ users / 5+ countries · 4.83★ · 99.8% crash-free
-   └─ Drove +60% engagement, +45% sync reliability, −25% memory usage
-   └─ Promoted from SDE to Senior in 5 months
+<table>
+<tr>
+<td align="center" valign="middle" width="24%">
+<img src="https://img.shields.io/badge/2024%20—%202026-1F6FEB?style=for-the-badge" /><br/>
+<b>Pun Learn</b><br/>
+<sub>Meri Lipi</sub>
+</td>
+<td valign="top" width="76%">
 
-🔵 Android Engineer                            Pun Learn — Meri Lipi   │ 2023 — 2024
-   └─ Built core Compose UI, offline-first sync & CI/CD release pipeline
-```
+**🟣 Senior Software Engineer — Android**
 
-<!-- ====================================================== -->
-<!--                  OPEN SOURCE                            -->
-<!-- ====================================================== -->
+- Owned **end-to-end technical architecture** & led a team of **4 engineers**
+- Shipped **Meri Lipi** to **80K+ users** across **5+ countries** · **4.83★** · **99.8% crash-free**
+- Drove **+60% engagement**, **+45% sync reliability**, **−25% memory usage**
+- Promoted from SDE to Senior in just **5 months**
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="24%">
+<img src="https://img.shields.io/badge/2023%20—%202024-8B5CF6?style=for-the-badge" /><br/>
+<b>Pun Learn</b><br/>
+<sub>Meri Lipi</sub>
+</td>
+<td valign="top" width="76%">
+
+**🔵 Android Engineer**
+
+- Built core **Jetpack Compose** UI, offline-first sync & the **CI/CD** release pipeline
+- Delivered video onboarding, offline-first uploads & Hindi/English localization
+
+</td>
+</tr>
+</table>
+
+<!-- ===================================================================
+     SECTION HIDDEN — SAVED FOR FUTURE USE (Open Source Contributions)
+     Uncomment when ready.
 
 ## 🌱 Open Source Contributions
 
-```text
-📌 ZeroDroid   — Authored & maintain a 27-tool Android hardware toolkit (open source)
-📌 Kabutar     — AI bulk-email platform, published for the community
-📌 Job-Finder  — Browser-console job-search tooling for 12 job boards
-📌 Ongoing     — Filing issues & PRs across the Android / Kotlin ecosystem
-```
+     📌 ZeroDroid   — Authored & maintain a 27-tool Android hardware toolkit
+     📌 Kabutar     — AI bulk-email platform, published for the community
+     📌 Job-Finder  — Browser-console job-search tooling for 12 job boards
+     📌 Ongoing     — Filing issues & PRs across the Android / Kotlin ecosystem
+=================================================================== -->
 
 <!-- ====================================================== -->
 <!--                    EDUCATION                            -->
@@ -388,81 +437,66 @@ The all-in-one **Android hardware toolkit** — **27 tools** for wireless analys
 
 <div align="center">
 
-| 🎯 | Milestone |
-|:--:|:----------|
-| 🚀 | Scaled **Meri Lipi** to **80K+ users** across **5+ countries** |
-| ⭐ | Maintained **4.83★** rating & **99.8% crash-free** stability |
-| ⚡ | Promoted to **Senior Engineer in 5 months** |
-| 👥 | Leading a team of **4 engineers** & owning architecture |
-| 📈 | **+60% engagement · +45% sync reliability · −25% memory** |
+<img src="https://img.shields.io/badge/Users-80K%2B-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Play%20Rating-4.83★-1F6FEB?style=for-the-badge&logo=googleplay&logoColor=white" />
+<img src="https://img.shields.io/badge/Crash--free-99.8%25-3DDC84?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Countries-5%2B-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">🚀<br/><b>80K+</b><br/><sub>Users reached</sub></td>
+<td align="center" width="25%">⚡<br/><b>5 months</b><br/><sub>SDE → Senior</sub></td>
+<td align="center" width="25%">👥<br/><b>Team of 4</b><br/><sub>Led &amp; mentored</sub></td>
+<td align="center" width="25%">📈<br/><b>+60% · +45% · −25%</b><br/><sub>Engagement · Sync · Memory</sub></td>
+</tr>
+</table>
 
 </div>
 
-<!-- ====================================================== -->
-<!--                     BLOGS                               -->
-<!-- ====================================================== -->
+<!-- ===================================================================
+     SECTIONS HIDDEN — SAVED FOR FUTURE USE
+     (Blogs · Talks · Community · Fun Facts · Quote of the Day)
+     Uncomment any block below when ready to publish it.
+     -------------------------------------------------------------------
 
-## ✍️ Latest Blogs
+     ## ✍️ Latest Blogs
 
-- 📝 *Structuring large Android apps with Clean Architecture & modularization*
-- 📝 *Offline-first sync in Jetpack Compose with WorkManager & Room*
-- 📝 *From SDE to Senior in 5 months — engineering habits that compound*
+     - 📝 Structuring large Android apps with Clean Architecture & modularization
+     - 📝 Offline-first sync in Jetpack Compose with WorkManager & Room
+     - 📝 From SDE to Senior in 5 months — engineering habits that compound
+     > 🔗 More on my portfolio: https://abhishekchandra.web.app
 
-> 🔗 More on my [portfolio](https://abhishekchandra.web.app)
+     -------------------------------------------------------------------
 
-<!-- ====================================================== -->
-<!--                     TALKS                               -->
-<!-- ====================================================== -->
+     ## 🎤 Talks & Sharing
 
-## 🎤 Talks & Sharing
+     - 🗣️ Compose Multiplatform: one codebase, every screen — internal engineering session
+     - 🗣️ Release engineering with GitHub Actions & Fastlane — team knowledge share
 
-- 🗣️ *Compose Multiplatform: one codebase, every screen* — internal engineering session
-- 🗣️ *Release engineering with GitHub Actions & Fastlane* — team knowledge share
+     -------------------------------------------------------------------
 
-<!-- ====================================================== -->
-<!--                   COMMUNITY                             -->
-<!-- ====================================================== -->
+     ## 🤝 Community
 
-## 🤝 Community
+     GitHub (Open Source) · Stack Overflow · Kotlin Slack
 
-<div align="center">
+     -------------------------------------------------------------------
 
-![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Answering-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Kotlin Slack](https://img.shields.io/badge/Kotlin%20Slack-Member-7F52FF?style=for-the-badge&logo=slack&logoColor=white)
+     ## 🎲 Fun Facts
 
-</div>
+     - ⚡ I refactor for readability before I optimize for speed — clean code compounds
+     - 📱 I've shipped apps used by families in 5+ countries
+     - ☕ Powered by chai, Compose previews & hot-reload
+     - 🧩 I enjoy turning messy legacy code into modular, testable architecture
+     - 🌙 Dark mode everything — including this README
 
-<!-- ====================================================== -->
-<!--                   FUN FACTS                             -->
-<!-- ====================================================== -->
+     -------------------------------------------------------------------
 
-## 🎲 Fun Facts
+     ## 💡 Quote of the Day
 
-<details>
-<summary><b>Click to expand →</b></summary>
-
-<br/>
-
-- ⚡ I refactor for readability before I optimize for speed — clean code compounds
-- 📱 I've shipped apps used by families in **5+ countries**
-- ☕ Powered by chai, Compose previews & hot-reload
-- 🧩 I enjoy turning messy legacy code into modular, testable architecture
-- 🌙 Dark mode everything — including this README
-
-</details>
-
-<!-- ====================================================== -->
-<!--                 QUOTE OF THE DAY                        -->
-<!-- ====================================================== -->
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+     ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+=================================================================== -->
 
 <!-- ====================================================== -->
 <!--                SUPPORT / SOCIALS                        -->
